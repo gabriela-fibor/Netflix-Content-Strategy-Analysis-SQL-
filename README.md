@@ -1,4 +1,4 @@
-# **Netflix Content Strategy Analysis**
+# **Netflix content strategy analysis**
 
 ## **Project Overview**
 This project analyzes Netflix's library (data updated to 2021) using SQL. The goal is to uncover strategic shifts in content production, focusing on geographical dominance, genre trends, and the evolution of movie formats. The dataset was sourced from **Kaggle** and contains information on movies and TV shows available on Netflix up to 2021.
